@@ -25,10 +25,6 @@ A well-designed repository will:
 
 - Serve as a tool for both research and culinary exploration.
 
-- Facilitate integration with external data sources to enrich the dataset.
-
-- General Objective
-
 ## General Objective
 
 To develop a digital repository that centralizes, organizes, and allows the analysis of recipes from diverse sources, incorporating structured data on ingredients, categories, nutritional values, and origins.
